@@ -5,9 +5,8 @@ permalink: /about/
 ---
 
 <div class="row">
-    ### If you need to send me super secret stuff
-    <div class="span4 offset3">
-<pre>
+### If you need to send me super secret stuff
+<pre class="span4 offset3">
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: GnuPG v2
 
@@ -39,5 +38,4 @@ OadTuw8f5b8LttE66JbEZTyYRlEN7SJTJViRSQqm6JV9lNNHsEdAhXN/mNxsV9YW
 =7tZI
 -----END PGP PUBLIC KEY BLOCK-----
 </pre>
-    </div>
 </div>
