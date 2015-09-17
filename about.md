@@ -6,6 +6,7 @@ permalink: /about/
 
 # If you need to send me super secret stuff
 
+<pre>
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: GnuPG v2
 
@@ -36,3 +37,4 @@ OadTuw8f5b8LttE66JbEZTyYRlEN7SJTJViRSQqm6JV9lNNHsEdAhXN/mNxsV9YW
 /OusV7aSNY9KCrItrSgCdicl3jZkF/NeJQ==
 =7tZI
 -----END PGP PUBLIC KEY BLOCK-----
+</pre>
