@@ -5,8 +5,8 @@ permalink: /about/
 ---
 
 <div class="row">
-### If you need to send me super secret stuff
-<pre class="span4 offset3">
+<h5>If you need to send me super secret stuff</h5>
+<pre>
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: GnuPG v2
 
