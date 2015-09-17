@@ -4,9 +4,8 @@ title: About
 permalink: /about/
 ---
 
-### If you need to send me super secret stuff
-
 <div class="row">
+    ### If you need to send me super secret stuff
     <div class="span6 offset3">
 <pre>
 -----BEGIN PGP PUBLIC KEY BLOCK-----
