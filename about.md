@@ -4,8 +4,9 @@ title: About
 permalink: /about/
 ---
 
-# If you need to send me super secret stuff
+### If you need to send me super secret stuff
 
+<div "row">
 <pre>
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: GnuPG v2
@@ -38,3 +39,4 @@ OadTuw8f5b8LttE66JbEZTyYRlEN7SJTJViRSQqm6JV9lNNHsEdAhXN/mNxsV9YW
 =7tZI
 -----END PGP PUBLIC KEY BLOCK-----
 </pre>
+</div>
